@@ -1,0 +1,2 @@
+EXTERN Mul_NxN_LONGOP : proc
+EXTERN Mul_Nx32_LONGOP : proc

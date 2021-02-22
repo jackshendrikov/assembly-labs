@@ -1,0 +1,1 @@
+EXTERN Func : proc

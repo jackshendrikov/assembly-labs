@@ -1,0 +1,1 @@
+EXTERN FloatDec_MY : proc

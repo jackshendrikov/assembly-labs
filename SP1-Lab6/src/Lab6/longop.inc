@@ -1,0 +1,5 @@
+EXTERN Add_864_LONGOP : proc
+EXTERN Sub_256_LONGOP : proc
+EXTERN Mul_N_x_N_LONGOP : proc
+EXTERN Mul_N32_LONGOP : proc
+EXTERN Write_1_LONGOP : proc
